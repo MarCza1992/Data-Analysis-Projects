@@ -4,7 +4,7 @@
 **MySQL, Power BI, Excel, Python**
 
 ## Description:
-his is a place where I will upload my projects focused on data transformation and analysis based on various databases.
+This is a place where I will upload my projects focused on data transformation and analysis based on various databases.
 
 Each project includes the original Excel file with the raw data, as well as folders containing the transformation and analysis work I performed using different tools. Through these projects, I demonstrate my skills in data cleaning and analysis using the following technologies:
 
