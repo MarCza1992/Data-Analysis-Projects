@@ -14,5 +14,6 @@ Each project includes the original Excel file with the raw data, as well as fold
 
 ## Projects:
 
-- Chess Online - A Database that includes all statistics in online chess matches (lichess.com), around 20000 rows and 17 columns.
-- UFO Observations - A database containing all reported UFO sightings from around the world (mainly in USA). around 80000 rows and 8 columns
+- **Chess Online** - A Database that includes all statistics in online chess matches (lichess.com), around 20000 rows and 17 columns.
+  
+- **UFO Observations** - A database containing all reported UFO sightings from around the world (mainly in USA). around 80000 rows and 8 columns
